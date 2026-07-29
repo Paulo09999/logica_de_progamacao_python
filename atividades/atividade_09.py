@@ -1,0 +1,10 @@
+numero1 = int(input("digite seu numero"))
+numero = int(input("digite seu numero"))
+
+print(numero1 + numero)
+print(numero1 - numero)
+print(numero1 * numero)
+print(numero1 / numero)
+print(numero1 // numero)
+print(numero1 % numero)
+print(numero1 ** numero)
